@@ -5,4 +5,4 @@
 - Normalize CSS
 - Media query
 ---
-[HTML and CSS template 1](https://www.youtube.com/watch?v=_-eh8cwGGwg&list=PLDoPjvoNmBAzhFD3niPAa1C1gXG4cs14J&index=3)
+[HTML and CSS template 1](https://www.youtube.com/watch?v=MBq8ZFEIIaQ&list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF)
